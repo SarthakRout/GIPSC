@@ -1,6 +1,7 @@
 # GIPSC
 ## CS335 Compilers Course Project
-- We build a compiler from Golang to MIPS using Python. 
+
+We build a compiler from Golang to MIPS using Python. 
 
 ## Advanced Features Supported
 - Constant Folding
@@ -15,7 +16,7 @@
 ## Execution
 - Run following command from root directory to run the compiler on a Go source file.
 ```bash
-python src/Milestone3/parser.py PATH_TO_FILE
+python src/Milestone6/compiler.py PATH_TO_FILE
 ```
 
 ## [Milestone4](src/Milestone4/)
